@@ -1,0 +1,19 @@
+#contact iframe
+{
+    width: 100%;
+}
+.edge
+{
+    border: 2px solid grey;
+}
+.edge img
+{
+    width: 100%;
+    height: 550px;
+}
+#video
+{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
